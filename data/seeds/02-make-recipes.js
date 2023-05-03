@@ -1,0 +1,3 @@
+exports.sedd = function (knex) {
+    
+}
